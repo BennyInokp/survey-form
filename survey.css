@@ -1,0 +1,62 @@
+    body{ 
+    margin:0.5px;
+    padding:1px;
+    background-color:black;
+    font-style: normal ;
+    color: white;
+  }
+
+  #lastname{
+   margin-left: 70px;
+  
+  }
+
+  #firstname{
+    margin-right:0px;
+  }
+  #state{
+    margin-left: 180px;
+  }
+  #city{
+    margin-right: 0px;
+  }
+  #Phone{
+     margin-right: 0px;
+  }
+  #Email{
+     margin-left: 167px;
+   
+  }
+  h1{
+    text-align: center;
+  }
+  
+  form{
+    border:5px;
+    border-style:solid;
+    ;
+    border-radius :5px;
+    border-width:90%;
+    outline-color: white;
+    Max-width :500px;
+    padding: 30px 20px 20px 20px;
+    margin-left: 350px;
+  }
+
+  input[type=text]{
+    background-color: white;
+    outline-color: white;
+  }
+
+  #submit{
+    border: none;
+    display:flex;
+    justify-content: center;
+    border-radius: 5px ;
+    color:white ;
+    min-height: 30px;
+    max-width: 100px;
+    background-color: blue;
+    margin: auto;
+  }
+  
